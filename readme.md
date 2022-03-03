@@ -39,9 +39,9 @@ For example,
 
 - data/ambe_data.filetype
 - data/02March2022_ambe_waveforms.filetype
-- data/Na-22-gammadata.filetype
+- data/Na22-gammadata.filetype
 
-This is important because the algorithm will perform a keyword search to capture
+Just make sure na22, cs137, and ambe is present in the file name. This is important because the algorithm will perform a keyword search to capture
 the correct dataset for each source. To speed things up, the algorithm will save
 the CoMPASS data as .NPY file types.
 

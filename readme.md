@@ -1,6 +1,6 @@
 # Plastic Scintillator Work
 
-**to use the automated waveform analysis script, "initialize_routine.py", please
+**to use the automated waveform analysis script, "automated_routine.py", please
 ensure you have the addcopyfighandler module installed,
 https://pypi.org/project/addcopyfighandler/
 
@@ -40,7 +40,7 @@ This is important because the algorithm will perform a keyword search to capture
 the correct dataset for each source. To speed things up, the algorithm will save
 the CoMPASS data as .NPY file types.
 
-To execute the process simply call the "initialize_routine.py" script.
+To execute the process simply call the "automated_routine.py" script.
 This script will automatically generate the spectra for each source,
 locate the Compton Edge(s), fit a Gaussian to the(those) edge(s), and calibrate
 accordingly. For AmBe data, it will also generate the pulse-shape discrimination

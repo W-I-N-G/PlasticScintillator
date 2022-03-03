@@ -23,8 +23,10 @@ Plot Outputs (saved in the plots/ dir)
 
 Text file Outputs (saved in your data/outputs/ dir)
 
-1. dataset_source.txt
-      - this file will hold the light calibration data in units keVee
+1. Na22_spectrum.txt
+2. Cs137_spectrum.txt
+3. AmBe_psd.txt      
+   - this file will hold the light calibration data in units keVee
 ----------------------------------------------------
 
 First, ensure the following directory exists

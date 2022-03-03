@@ -15,7 +15,6 @@ several outputs from the process,
 
 Plot Outputs (saved in the plots/ dir)
 
-----------------------------------------------------
 1. Na22/Cs137/AmBe PSD plot
 2. Na22/Cs137 uncalibrated spectrum
 3. Na22/Cs137/AmBe waveform plot with gates labeled
@@ -24,7 +23,6 @@ Plot Outputs (saved in the plots/ dir)
 
 Text file Outputs (saved in your data/outputs/ dir)
 
-----------------------------------------------------
 1. dataset_source.txt
       - this file will hold the light calibration data in units keVee
 ----------------------------------------------------

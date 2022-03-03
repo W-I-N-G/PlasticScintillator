@@ -57,5 +57,6 @@ As the process is working several values of interest will be printed to the
 user's terminal. An example of executing the process has been provided below.
 
 
-![Picture1](https://user-images.githubusercontent.com/47109396/156668487-c4f965b8-3d90-4134-99e1-0006a2b790b4.png)
+
+![Picture1](https://user-images.githubusercontent.com/47109396/156668808-2b226689-7e1b-44e4-bb83-3a72a5cec66c.png)
 

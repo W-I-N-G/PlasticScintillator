@@ -55,3 +55,6 @@ A PSD cut is applied on the for Gamma/Neutron events on the interval
 Figure of Merit (FoM) is maximized as a function of the PSD short gate value.
 As the process is working several values of interest will be printed to the
 user's terminal. An example of executing the process has been provided below.
+
+![Picture1](https://user-images.githubusercontent.com/47109396/156668274-b398dfc2-eaac-46b7-b636-969be7f45f57.png)
+

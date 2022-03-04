@@ -37,9 +37,9 @@ in the data/ directory should be the CoMPASS data you'd like to analyze. Please
 make sure that the different datasets have the source located in the file name.
 For example,
 
-- data/ambe_data.filetype
-- data/02March2022_ambe_waveforms.filetype
-- data/Na22-gammadata.filetype
+- data/ambe_data.txt
+- data/02March2022_ambe_waveforms.txt
+- data/Na22-gammadata.txt
 
 Just make sure na22, cs137, and ambe is present in the file name. This is important because the algorithm will perform a keyword search to capture
 the correct dataset for each source. To speed things up, the algorithm will save

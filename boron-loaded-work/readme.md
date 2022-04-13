@@ -1,8 +1,7 @@
 # Boron Loaded Work
 
 Here are the post-processing scripts and data files used with the boron-loaded
-plastic scintillator. The coincidence data set was too large to include on GitHub,
-but it available upon request.
+plastic scintillator
 
 Directories:
 

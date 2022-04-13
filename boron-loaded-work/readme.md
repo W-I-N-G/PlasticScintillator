@@ -11,6 +11,10 @@ Directories:
 
 2. 2022_04_04_AFITB10JJM_Am241/ -- Am241 data that was recorded for calibration
 
+3. 2022_04_01_AFITB10JJM_AmBe_coincidence/ -- coincidence data that was recorded
+   using two LaBr3 detectors with the boron-loaded plastic scintillator. This is
+   not included on GitHub as it was too large, but is available upon request
+
 Python scripts:
 
 1. gamma_data.py -- this script analyzes the Am241 spectrum, isolates the Am241

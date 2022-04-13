@@ -1,7 +1,7 @@
 # Boron Loaded Work
 
 Here are the post-processing scripts and data files used with the boron-loaded
-plastic scintillator
+plastic scintillator.
 
 Directories:
 
@@ -41,7 +41,11 @@ Python scripts:
    3.4. ch02.npy -- coincidence events between ch0 and ch2 Nx3 array ("TIME", "ENERGY", "ENERGYSHORT")
    3.5. ch04.npy -- same as 3.4 for events between ch0 and ch4
 
-   ambe_data.py will read in the ch02.npy and ch04.npy files for further analysis
+   ambe_data.py will read in the ch02.npy and ch04.npy files for further analysis.
+   NOTE: this data was generated using CoMPASS with a setting of
+   "one file for all channels". If the data is collected using "one file per channel",
+   then it will not be necessary to include the logic that generates data files
+   3.1, 3.2, and 3.3.
 
 4. gaussian.py -- holds the various gaussian fit functions that were used or sampled
    throughout this work
